@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a third-year CS Engineering student at **INSA Lyon** (International Asia track), currently on exchange in **Hong Kong**, with prior academic experience in **Japan** and **China**.
+I'm a fourth-year CS Engineering student at **INSA Lyon** (International Asia track), currently on exchange in **Hong Kong**, with prior academic experience in **Japan** and **China**.
 
 What I'm genuinely excited about:
 
