@@ -1,58 +1,53 @@
-<p align="center">
-  <em>Open to internships.</em>
-</p>
-<h1 align="center">Hi, I'm Jules 👋</h1>
-<p align="center">
-  <em>Computer Science Engineering student @ <strong>INSA Lyon</strong> · International Asia Track</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Computer%20Graphics-2d6a4f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Also%20into-Computer%20Vision%20%26%20Competitive%20Programming-1d3557?style=flat-square" />
-  <img src="https://img.shields.io/badge/Experience-Hong%20Kong%20%7C%20Japan%20%7C%20China%20%7C%20France-e63946?style=flat-square" />
-</p>
-
+**Open to internships · 4 months starting May 2027 · France and abroad**
+ 
+# Hi, I'm Jules
+ 
+*Computer Science Engineering student @ **INSA Lyon** · International Asia Track*
+ 
+![](https://img.shields.io/badge/Focus-Computer%20Graphics-2d6a4f?style=flat-square) ![](https://img.shields.io/badge/Also%20into-Computer%20Vision%20%26%20Robotics-1d3557?style=flat-square) ![](https://img.shields.io/badge/Experience-Hong%20Kong%20%7C%20Japan%20%7C%20China%20%7C%20France-e63946?style=flat-square)
+ 
 ---
-
+ 
 ## About Me
-
-I'm a fourth-year CS Engineering student at **INSA Lyon** (International Asia track), currently on exchange in **Hong Kong**, with prior academic experience in **Japan** and **China**.
-
-What I'm genuinely excited about:
-
-- 🎨 **Computer Graphics** : rendering, shaders, geometry, making things look real for videogames and real-time engines.
-- ⚔️ **Competitive Programming** : training my problem-solving skills on [CSES Problem Set](https://cses.fi/problemset/)
-- 👁️ **Computer Vision** : understanding how machines see and interpret the visual world, especially for robotics.
-
+ 
+I'm a fourth-year Computer Science engineering student at **INSA Lyon** (International Asia track), currently on exchange at **City University of Hong Kong**, with prior academic and work experience in **Japan** and **China**.
+ 
+What I enjoy most:
+ 
+- **Computer Graphics**: rendering, shaders, light transport, real-time engines.
+- **C++ and systems**: performance, memory, and how software meets hardware.
+- **Computer Vision**: using a camera as an input for interactive 3D, especially for robotics and natural interfaces.
 ---
-
+ 
 ## Currently
-
-- 📍 On exchange at university in **City University of Hong Kong**
-- 🌈 Building through **Ray Tracing in One Weekend** (book 1 done) — [repo link here](https://github.com/j-brisard/ray-tracing-one-weekend)
-- 🖼️ Halfway through **LearnOpenGL** — [repo link here](https://github.com/j-brisard/LearnOpenGL)
-
+ 
+| Project | What it is | Status |
+|---|---|---|
+| [**Ray tracer**](https://github.com/j-brisard/ray-tracing-one-weekend) | C++17 path tracer built from *Ray Tracing in One Weekend* and extended | Next: multithreading |
+| [**LearnOpenGL**](https://github.com/j-brisard/LearnOpenGL) | OpenGL / GLSL chapters, from Phong to Blinn-Phong, models, framebuffers, cubemaps, MSAA | Through *Advanced OpenGL* |
+| [**Aura3D**](https://github.com/j-brisard/Aura3D) | Touchless 3D viewer with head-coupled perspective ("Fish-Tank VR"), 5-student team, I lead the project and own the rendering | In progress, until Dec. 2026 |
+ 
+Exchange semester at **City University of Hong Kong**: Computer Graphics, Multimodal Interface Design.
+ 
 ---
-
-## Tech & Tools
-
+ 
+## Tech and Tools
+ 
 ```
-Languages     C · C++ · Python · GLSL · (learning more)
-Graphics      OpenGL · Ray Tracing · Shaders · Rendering pipelines
-Low-level     Assembly · Digital circuits · Embedded C
-CS Domains    Algorithms · Computer Architecture · Signal/Image Processing
-Soft Skills   Cross-cultural teamwork · Adaptability · Academic rigor
+Languages    C++ · C · Python · GLSL · SQL
+Graphics     OpenGL · ModernGL · Ray tracing · Shaders · Assimp
+Systems      Computer architecture · OS fundamentals · Multithreading basics
+Tooling      Git · CMake · Make · Valgrind · Docker
+Also used    Next.js · Node.js · PostgreSQL · Azure (internship)
 ```
-
+ 
 ---
-
+ 
 ## Goals
-
-Aiming to land an internship as a **Computer Graphics Engineer**, **Graphics Software Engineer**, or **Engine Programmer**. Ideally somewhere at the crossroads of hardware, systems, and real-time rendering.
-
+ 
+Looking for a **4-month internship starting May 2027** as a **Graphics Software Engineer**, **Engine Programmer** or **C++ Developer**, ideally where real-time rendering meets systems or hardware. Open to France and abroad.
+ 
 ---
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jules-brisard/">LinkedIn</a> ·
-  <a href="mailto:julesbrisard@startmail.com">Email</a>
-</p>
+ 
+**[LinkedIn](https://www.linkedin.com/in/jules-brisard/)** · **[Email](mailto:julesbrisard@startmail.com)**
+ 
