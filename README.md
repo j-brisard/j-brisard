@@ -23,7 +23,7 @@ What I enjoy most:
  
 | Project | What it is | Status |
 |---|---|---|
-| [**Ray tracer**](https://github.com/j-brisard/ray-tracing-one-weekend) | C++17 path tracer built from *Ray Tracing in One Weekend* and extended | Next: multithreading |
+| [**Ray tracer**](https://github.com/j-brisard/raytracer-cpp) | C++17 path tracer built from *Ray Tracing in One Weekend* and extended | Next: multithreading |
 | [**LearnOpenGL**](https://github.com/j-brisard/LearnOpenGL) | OpenGL / GLSL chapters, from Phong to Blinn-Phong, models, framebuffers, cubemaps, MSAA | Through *Advanced OpenGL* |
 | [**Aura3D**](https://github.com/j-brisard/Aura3D) | Touchless 3D viewer with head-coupled perspective ("Fish-Tank VR"), 5-student team, I lead the project and own the rendering | In progress, until Dec. 2026 |
  
