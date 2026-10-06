@@ -23,7 +23,7 @@ What I enjoy most:
  
 | Project | What it is | Status |
 |---|---|---|
-| [**Ray tracer**](https://github.com/j-brisard/raytracer-cpp) | C++17 path tracer built from *Ray Tracing in One Weekend* and extended | Next: multithreading |
+| [**Ray tracer**](https://github.com/j-brisard/ray-tracing-one-weekend) | C++17 path tracer built from *Ray Tracing in One Weekend* and extended | Next: multithreading |
 | [**LearnOpenGL**](https://github.com/j-brisard/LearnOpenGL) | OpenGL / GLSL chapters, from Phong to Blinn-Phong, models, framebuffers, cubemaps, MSAA | Through *Advanced OpenGL* |
 | [**Aura3D**](https://github.com/j-brisard/Aura3D) | Touchless 3D viewer with head-coupled perspective ("Fish-Tank VR"), 5-student team, I lead the project and own the rendering | In progress, until Dec. 2026 |
  
@@ -34,7 +34,7 @@ Exchange semester at **City University of Hong Kong**: Computer Graphics, Multim
 ## Tech and Tools
  
 ```
-Languages    C++ · C · Python · GLSL · SQL
+Languages    C++ · C · Python (NumPy) · GLSL · SQL
 Graphics     OpenGL · ModernGL · Ray tracing · Shaders · Assimp
 Systems      Computer architecture · OS fundamentals · Multithreading basics
 Tooling      Git · CMake · Make · Valgrind · Docker
@@ -45,9 +45,8 @@ Also used    Next.js · Node.js · PostgreSQL · Azure (internship)
  
 ## Goals
  
-Looking for a **4-month internship starting May 2027** as a **Graphics Software Engineer**, **Engine Programmer** or **C++ Developer**, ideally where real-time rendering meets systems or hardware. Open to France and abroad.
+Looking for a **4-month internship starting May 2027** in **C++ software engineering**, ideally around real-time rendering, engines or graphics. I like pairing C++ with Python and NumPy for prototyping. Open to France and abroad.
  
 ---
  
 **[LinkedIn](https://www.linkedin.com/in/jules-brisard/)** · **[Email](mailto:julesbrisard@startmail.com)**
- 
